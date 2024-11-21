@@ -15,6 +15,17 @@ SkillNet is a management system designed for private lessons, trainings, or othe
 - **Notifications**: Delivered in real-time via **Azure Functions**, **SignalR**, and **CosmosDB**.
 - **Event-Driven Architecture**: Utilizes **Azure Service Bus** for publish/subscribe messaging.
 
+## Cloud Solution
+
+SkillNet leverages **Microsoft Azure** for a fully cloud-hosted, scalable, and reliable solution:
+
+- **Landing Page and SPA**: Hosted on **Azure Static Web Apps** for fast and secure delivery.
+- **Monolith API**: Deployed on **Azure App Service**, ensuring high availability and scalability.
+- **Notifications**: Powered by **Azure CosmosDB for MongoDB**, **Azure SignalR**, and **Azure Functions** for real-time updates and event processing.
+- **Main Database**: Uses **Azure SQL** for relational data management.
+- **Storage**: **Azure Blob Storage** is utilized for storing and managing images and files.
+- **Service Bus**: Implements **Azure Service Bus** for event-driven communication using the publish/subscribe model.
+
 ### Architecture Diagram
 
 ![SkillNet-Diagram](https://github.com/user-attachments/assets/5e5a7d94-1d8b-4efe-929f-7c0702b07277)
