@@ -1,6 +1,4 @@
 # [PRESENTATION](https://www.canva.com/design/DAGXUFnhhi0/Nz4IXnLEsHSbGDPfrACTJA/edit?utm_content=DAGXUFnhhi0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-# [DOCUMENTATION](https://docs.google.com/document/d/191n_tcpc6TPIFMr7cmXoymfvvwnRpZwr/edit?usp=sharing&ouid=102960516675733777589&rtpof=true&sd=true)
-
 
 
 ![SkillNet_600](https://github.com/user-attachments/assets/beb41224-92c6-48d8-a0cd-a23cc6178eaf)
